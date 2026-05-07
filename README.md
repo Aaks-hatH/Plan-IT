@@ -1,144 +1,104 @@
-# PlanIt
+<div align="center">
+  <img src="icons/pwa-maskable-192x192.png" alt="PlanIt Icon" width="128" height="128">
+  <h1>PlanIt</h1>
+  <p><b>Professional event management. Free.</b></p>
+  
+ 
+</div>
 
-Live Application: https://planitapp.onrender.com
 
-## Overview
 
-PlanIt is a live, web-based collaborative planning platform that enables users to create and manage event spaces in real time. The platform allows participants to communicate, share resources, create polls, and coordinate plans within a centralized event environment.
 
-This document explains how to use the deployed PlanIt application. It does not describe how to build or deploy the system.
-
----
-
-## Accessing the Platform
-
-Open your browser and navigate to:
-
-https://planitapp.onrender.com
-
-No installation or local setup is required. The application runs entirely in the browser.
+PlanIt is an all-in-one hosted platform for running events — from intimate gatherings to large-scale multi-staff operations. Guest lists, check-in, seating, real-time coordination, table service, and more, all in one place. No installs, no subscriptions, no setup.
 
 ---
 
-## Core Features
+## Get started
 
-### 1. Creating an Event
+PlanIt is available at **[planitapp.onrender.com](https://planitapp.onrender.com)**.
 
-To create a new event:
-
-1. Navigate to the home page.
-2. Select **Create Event**.
-3. Enter the required event details.
-4. Submit the form.
-
-After submission, an Event Space is created where collaboration can begin.
+Create an organiser account, build your event, and you're ready. Share invite links with guests, add staff with a PIN, and go.
 
 ---
 
-### 2. Event Space
+## What you can do
 
-Each Event Space functions as a centralized collaboration hub. Within an event, users can:
+### Organisers
+- Build a full guest list — add individually or import via CSV
+- Assign seating with a drag-and-drop visual floor map
+- Set per-event security levels, entry rules, and anti-fraud controls
+- Track check-ins live with real-time statistics and activity logs
+- Run countdown timers, announcements, and event utilities
+- Export attendance reports and event data at any time
 
-- Send real-time chat messages.
-- Upload and download shared files.
-- Create and vote in polls.
-- View event participants.
+### Check-in staff
+- PIN-based login — no organiser credentials needed
+- Scan guest QR codes directly from any device camera
+- Review guest boarding passes before granting entry
+- Offline mode — keeps working if signal drops, syncs automatically when back online
+- Built-in walkie-talkie (push-to-talk) for staff coordination during the event
 
-All updates occur dynamically without requiring manual page refresh.
+### Guests
+- Personal invite link with a unique QR code — no account required
+- Mobile wallet-style card view
+- Print-ready name badge
+- Direct QR image link for embedding in other systems
 
----
-
-### 3. Real-Time Chat
-
-Participants inside an Event Space can communicate using live messaging. Messages appear instantly for all users currently connected to the event.
-
----
-
-### 4. Polling System
-
-The polling feature allows users to:
-
-1. Create a poll with multiple selectable options.
-2. Allow participants to vote.
-3. View updated results in real time.
-
-This feature is designed to support collaborative decision-making.
-
----
-
-### 5. File Sharing
-
-Within an Event Space, users may upload files relevant to the event. Participants can access and download shared files directly through the platform.
+### Table service (restaurant & hospitality)
+- Live wait board with queue positions
+- QR-based table reservations and walk-in management
+- Floor map with real-time table occupancy
+- Server assignment and waitlist controls
 
 ---
 
-### 6. Administrative Controls
+## Enterprise & white-label
 
-Event creators may have access to administrative functionality, including:
+Organisations that need a branded experience can apply for a white-label arrangement. This gives you a custom domain, your own branding, and a dedicated client portal.
 
-- Managing event settings.
-- Monitoring event activity.
-- Overseeing participant engagement.
-
-Administrative access is restricted to authorized users.
+Contact **[planit.userhelp@gmail.com](mailto:planit.userhelp@gmail.com)** with your organisation name and intended use to enquire.
 
 ---
 
-### 7. Support
+## Pricing
 
-If issues occur:
-
-1. Navigate to the Support page.
-2. Complete the support form.
-3. Submit the request.
-
-A confirmation page will be displayed after submission.
+PlanIt is **free to use** through the official hosted service. There are no per-event fees, no guest limits charged, and no feature tiers. Enterprise and white-label arrangements are available separately.
 
 ---
 
-### 8. Policies
+## Status & uptime
 
-The platform provides access to:
+Live platform status is available at **[planitapp.onrender.com/status](https://planitapp.onrender.com/status)**.
 
-- Privacy Policy
-- Terms and Conditions
-
-These documents outline usage requirements and data handling practices.
+The status page shows real-time health for all platform components, active incidents, and historical uptime. Subscribe to incident notifications via the page if you want to be alerted automatically.
 
 ---
 
-## Typical Workflow
+## Support
 
-1. Create an event.
-2. Share access with participants.
-3. Communicate through chat.
-4. Upload relevant documents.
-5. Create polls for decisions.
-6. Finalize plans collaboratively.
+- **Help & bug reports:** [planitapp.onrender.com/help](https://planitapp.onrender.com/help)
+- **Email:** [planit.userhelp@gmail.com](mailto:planit.userhelp@gmail.com)
+
+Please use the in-app help form for support requests. Do not open GitHub issues for support — issues in this repository are for tracking acknowledged defects only.
 
 ---
 
-## System Requirements
+## Data & privacy
 
-- Modern web browser (Chrome, Firefox, Safari, Edge)
-- Internet connection
+PlanIt stores only what is needed to operate your event. All event data — guest lists, messages, files, and check-in records — is automatically and permanently deleted **seven days after the event date**. There is no manual step required.
 
-No additional software or installation is required.
+Full details are in the [Privacy Policy](https://planitapp.onrender.com/privacy).
 
 ---
 
-## License
+## Licence
 
-Copyright (C) 2026 Aakshat Hariharan 
+PlanIt is **proprietary freeware**. The source code is published here for transparency — it is not open-source software and no open-source licence applies.
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as
-published by the Free Software Foundation, version 3.
+You may not self-host, fork, redistribute, or build on this codebase. The software is free to use exclusively through the official hosted service at [planitapp.onrender.com](https://planitapp.onrender.com).
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU Affero General Public License for more details.
+For the full licence terms, see [LICENSE](./LICENSE). For permissions enquiries, contact [planit.userhelp@gmail.com](mailto:planit.userhelp@gmail.com).
 
-You should have received a copy of the GNU Affero General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
+---
+
+&copy; PlanIt — All rights reserved.

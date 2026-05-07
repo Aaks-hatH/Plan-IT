@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icons/pwa-maskable-192x192.png" alt="PlanIt Icon" width="128" height="128">
+  <img src="icons/pwa-maskable-192x192 (1).png" alt="PlanIt Icon" width="128" height="128">
   <h1>PlanIt</h1>
   <p><b>Professional event management. Free.</b></p>
   

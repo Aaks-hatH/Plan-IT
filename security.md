@@ -124,6 +124,7 @@ To request authorization, contact:
 planit.userhelp@gmail.com  
 **Subject line:** `[SECURITY] Authorized Testing Request`
 
+---
 
 © 2026 Aakshat Hariharan. All Rights Reserved.  
 PlanIt is proprietary software. Unauthorized use is strictly prohibited.

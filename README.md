@@ -2,14 +2,9 @@
   <img src="icons/pwa-maskable-192x192 (1).png" alt="PlanIt Icon" width="128" height="128">
   <h1>PlanIt</h1>
   <p><b>Professional event management. Free.</b></p>
-  
- 
 </div>
 
-
-
-
-PlanIt is an all-in-one hosted platform for running events — from intimate gatherings to large-scale multi-staff operations. Guest lists, check-in, seating, real-time coordination, table service, and more, all in one place. No installs, no subscriptions, no setup.
+PlanIt is the all-in-one hosted platform for running events and hospitality operations at any scale. Guest lists, check-in, seating, real-time staff coordination, full table service, kitchen display, and order management — unified, hosted, and free. No installation. No subscription. No setup.
 
 ---
 
@@ -17,44 +12,52 @@ PlanIt is an all-in-one hosted platform for running events — from intimate gat
 
 PlanIt is available at **[planitapp.onrender.com](https://planitapp.onrender.com)**.
 
-Create an organiser account, build your event, and you're ready. Share invite links with guests, add staff with a PIN, and go.
+Create an organiser account, configure your event, and you are operational. Distribute invite links to guests, provision staff with a PIN, and go.
 
 ---
 
 ## What you can do
 
 ### Organisers
-- Build a full guest list — add individually or import via CSV
-- Assign seating with a drag-and-drop visual floor map
-- Set per-event security levels, entry rules, and anti-fraud controls
-- Track check-ins live with real-time statistics and activity logs
-- Run countdown timers, announcements, and event utilities
-- Export attendance reports and event data at any time
+
+- Build and manage a complete guest list — individually or via bulk CSV import
+- Assign seating through a drag-and-drop visual floor map
+- Configure per-event security levels, entry rules, and anti-fraud controls
+- Monitor check-ins in real time with live statistics and full activity logs
+- Broadcast countdown timers, announcements, and event utilities to all connected devices
+- Export attendance reports and full event data at any time
 
 ### Check-in staff
-- PIN-based login — no organiser credentials needed
-- Scan guest QR codes directly from any device camera
-- Review guest boarding passes before granting entry
-- Offline mode — keeps working if signal drops, syncs automatically when back online
-- Built-in walkie-talkie (push-to-talk) for staff coordination during the event
+
+- PIN-based authentication — no organiser credentials required
+- Scan guest QR codes from any device camera
+- Review guest boarding passes prior to granting entry
+- Offline mode — fully operational when connectivity drops, syncs automatically on reconnect
+- Integrated push-to-talk over WebRTC for real-time staff coordination throughout the event
 
 ### Guests
+
 - Personal invite link with a unique QR code — no account required
-- Mobile wallet-style card view
+- Mobile wallet-style pass view
 - Print-ready name badge
-- Direct QR image link for embedding in other systems
+- Direct QR image link for embedding in external systems
 
 ### Table service (restaurant & hospitality)
-- Live wait board with queue positions
-- QR-based table reservations and walk-in management
-- Floor map with real-time table occupancy
+
+- Live wait board with real-time queue positions
+- QR-based table reservations and walk-in management from a unified interface
+- Live floor map with real-time table occupancy across the entire venue
 - Server assignment and waitlist controls
+- Time-slot reservation system with configurable booking windows and per-slot capacity limits
+- Full menu builder — categories, items, modifiers, and special request fields
+- Server-side order management — place, modify, and track orders from any device
+- Kitchen Display System (KDS) — orders appear as tickets on the kitchen display the moment they are placed, with age-based visual prioritisation and full offline support
 
 ---
 
 ## Enterprise & white-label
 
-Organisations that need a branded experience can apply for a white-label arrangement. This gives you a custom domain, your own branding, and a dedicated client portal.
+Organisations requiring a branded experience may apply for a white-label arrangement, which includes a custom domain, dedicated client portal, and full platform rebranding.
 
 Contact **[planit.userhelp@gmail.com](mailto:planit.userhelp@gmail.com)** with your organisation name and intended use to enquire.
 
@@ -62,7 +65,7 @@ Contact **[planit.userhelp@gmail.com](mailto:planit.userhelp@gmail.com)** with y
 
 ## Pricing
 
-PlanIt is **free to use** through the official hosted service. There are no per-event fees, no guest limits charged, and no feature tiers. Enterprise and white-label arrangements are available separately.
+PlanIt is **free to use** through the official hosted service. There are no per-event fees, no guest limits, and no feature tiers. Enterprise and white-label arrangements are available separately.
 
 ---
 
@@ -70,7 +73,7 @@ PlanIt is **free to use** through the official hosted service. There are no per-
 
 Live platform status is available at **[planitapp.onrender.com/status](https://planitapp.onrender.com/status)**.
 
-The status page shows real-time health for all platform components, active incidents, and historical uptime. Subscribe to incident notifications via the page if you want to be alerted automatically.
+The status page provides real-time health across all platform components, active incident reporting, and historical uptime records. Incident notifications are available via subscription on the status page.
 
 ---
 
@@ -79,25 +82,25 @@ The status page shows real-time health for all platform components, active incid
 - **Help & bug reports:** [planitapp.onrender.com/help](https://planitapp.onrender.com/help)
 - **Email:** [planit.userhelp@gmail.com](mailto:planit.userhelp@gmail.com)
 
-Please use the in-app help form for support requests. Do not open GitHub issues for support — issues in this repository are for tracking acknowledged defects only.
+Use the in-app help form for all support requests. GitHub issues in this repository are reserved exclusively for acknowledged defects.
 
 ---
 
 ## Data & privacy
 
-PlanIt stores only what is needed to operate your event. All event data — guest lists, messages, files, and check-in records — is automatically and permanently deleted **seven days after the event date**. There is no manual step required.
+PlanIt retains only the data required to operate your event. All event data — guest lists, messages, files, check-in records, and orders — is automatically and permanently deleted **seven days after the event date**. No manual action is required.
 
-Full details are in the [Privacy Policy](https://planitapp.onrender.com/privacy).
+Full details are available in the [Privacy Policy](https://planitapp.onrender.com/privacy).
 
 ---
 
 ## Licence
 
-PlanIt is **proprietary freeware**. The source code is published here for transparency — it is not open-source software and no open-source licence applies.
+PlanIt is **proprietary freeware**. Source code is published here for transparency only — this is not open-source software and no open-source licence applies.
 
-You may not self-host, fork, redistribute, or build on this codebase. The software is free to use exclusively through the official hosted service at [planitapp.onrender.com](https://planitapp.onrender.com).
+Self-hosting, forking, redistribution, and derivative works are not permitted. The software is free to use exclusively through the official hosted service at [planitapp.onrender.com](https://planitapp.onrender.com).
 
-For the full licence terms, see [LICENSE](./LICENSE). For permissions enquiries, contact [planit.userhelp@gmail.com](mailto:planit.userhelp@gmail.com).
+For full licence terms, see [LICENSE](./LICENSE). For permissions enquiries, contact [planit.userhelp@gmail.com](mailto:planit.userhelp@gmail.com).
 
 ---
 
